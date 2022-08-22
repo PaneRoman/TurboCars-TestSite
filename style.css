@@ -95,5 +95,13 @@ img{
 .test-list{
 	width: 80%;
 }
+
+h1{
+	font-size: 18px;
+}
+
+footer{
+	height: 200px;
+}
 /* --------------- /базовые настройки ---------*/
 
