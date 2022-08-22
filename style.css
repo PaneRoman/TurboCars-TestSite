@@ -105,6 +105,10 @@ p{
 	color: red;
 }
 
+.content{
+	margin: 0 auto;
+}
+
 footer{
 	height: 200px;
 }
