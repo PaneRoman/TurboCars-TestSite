@@ -91,5 +91,9 @@ img{
     content: "";
     display: table;
 }
+
+.test-list{
+	width: 80%;
+}
 /* --------------- /базовые настройки ---------*/
 
