@@ -10,8 +10,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
     <header>TurboCars Main</header>
+=======
     <header>TurboCars Branch2</header>
+>>>>>>> branch2
 
     <main class="test-list">
         <ul>
@@ -19,12 +22,17 @@
             <li>Orange</li>
             <li>Potato</li>
         </ul>
+<<<<<<< HEAD
+
+        
+=======
         
         <ul class="cities-list">
             <li>Kharkov</li>
             <li>Dnipro</li>
             <li>Lviv</li>
         </ul> 
+>>>>>>> branch2
     </main>
 
     <h1>Hello!</h1>
