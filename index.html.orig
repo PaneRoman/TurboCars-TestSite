@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"> 
+<link rel="stylesheet" type="text/css" href="style.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>Company name - home page</title>
+</head>
+
+<body>
+<<<<<<< HEAD
+    <header>TurboCars Main</header>
+=======
+    <header>TurboCars Branch3</header>
+>>>>>>> branch3
+    
+    <main class="test-list">
+        <ul>
+            <li>Apple</li>
+            <li>Orange</li>
+            <li>Potato</li>
+        </ul>
+
+        <ul class="car-list">
+            <li>Audi</li>
+            <li>Volvo</li>
+            <li>BMW</li>
+            <li>Mersedes</li>
+        </ul>
+        
+        <ul class="cities-list">
+            <li>Kharkov</li>
+            <li>Dnipro</li>
+            <li>Lviv</li>
+        </ul> 
+
+<<<<<<< HEAD
+        <ul class="animals-list">
+            <li>Dog</li>
+            <li>Cat</li>
+            <li>Elefant</li>
+            <li>Tiger</li>
+            <li>Mouse</li>
+        </ul> 
+
+         
+=======
+          
+>>>>>>> branch3
+    </main>
+
+    <h1>Hello!</h1>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem amet repellat, perferendis incidunt iure aliquid quam veniam explicabo delectus consequuntur blanditiis, perspiciatis architecto vel rem ratione? Ad, porro. Minima, quaerat.
+    Pariatur qui nemo, quos ullam iste neque sapiente illo praesentium, laborum harum et eligendi inventore nisi porro nesciunt laboriosam dolor fugiat itaque eum quam voluptatibus consequatur odio quae. Ex, minus.
+    Itaque, quia incidunt? Incidunt temporibus quidem culpa quo sequi consectetur sunt, necessitatibus asperiores vel modi mollitia aperiam? Eius possimus veniam ut ullam culpa, provident minima odit? Voluptates nisi atque quasi!
+    </p>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore saepe alias ea perspiciatis omnis nostrum deserunt velit quod necessitatibus sapiente consectetur odit, voluptatibus expedita possimus error fugit, officia impedit? Autem.
+    Dolores accusantium explicabo autem natus voluptate molestiae ullam, molestias est quidem a corporis, architecto numquam sunt eos alias sed nihil repudiandae inventore! Nulla sunt voluptatem odio ipsam at aspernatur totam.
+    Veniam explicabo ea numquam, sed eos pariatur maxime culpa? Perspiciatis est ullam itaque in omnis accusamus qui porro, dolorem tempora sit, exercitationem aperiam sint assumenda consectetur laborum magni libero veritatis!
+    Dolorum, ipsum a iure necessitatibus, saepe dolore perferendis accusantium vel magni voluptas, quae maxime blanditiis! Ab eius fuga dolorum culpa et dolor commodi tenetur! Eum, temporibus repellat. Provident, libero at.
+    Assumenda dolore autem repudiandae tenetur officia ipsum, atque eius ex sed corporis. Nemo harum saepe repudiandae nulla explicabo doloremque odio ipsa, dolorum assumenda, quia delectus eos rerum blanditiis qui cum.</p>
+
+    <div class="content">
+        <div class="item-content">
+            <img src="" alt="">
+        </div>
+        <div class="item-content">
+            <img src="" alt="">
+        </div>
+        <div class="item-content">
+            <img src="" alt="">
+        </div>
+
+    </div>
+
+    <div class="slider">
+        <div class="slider-wrapper">
+            
+        </div>
+    </div>
+
+    <footer>Contacts</footer>
+
+
+</body>
+</html>
